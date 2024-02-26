@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elZpZ69duPS2WHDFcS65bbUgyfYqkko7P60WblDy0DUmpt6rZg1H0vBSO8gtchNLmlrQu0gCoS/TYZpMtAhwyQ==",
+  "dgSpecHash": "hZxYKsVMJ8Gd/+XxCBbEeE9fZ60mQamCawPoPxuNrqAFwg9gNa8xKHE6R/FK6fzwmAdqZWEBO2j0yjPVrGCNZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Safak\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Safak\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

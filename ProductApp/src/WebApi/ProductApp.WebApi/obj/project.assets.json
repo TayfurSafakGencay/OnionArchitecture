@@ -1132,11 +1132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\WebApi\\ProductApp.WebApi\\ProductApp.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\WebApi\\ProductApp.WebApi\\ProductApp.WebApi.csproj",
       "projectName": "ProductApp.WebApi",
-      "projectPath": "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\WebApi\\ProductApp.WebApi\\ProductApp.WebApi.csproj",
+      "projectPath": "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\WebApi\\ProductApp.WebApi\\ProductApp.WebApi.csproj",
       "packagesPath": "C:\\Users\\Safak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\WebApi\\ProductApp.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\WebApi\\ProductApp.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Safak\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1151,11 +1151,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj": {
-              "projectPath": "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj"
+            "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj": {
+              "projectPath": "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj"
             },
-            "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj"
+            "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj"
             }
           }
         }

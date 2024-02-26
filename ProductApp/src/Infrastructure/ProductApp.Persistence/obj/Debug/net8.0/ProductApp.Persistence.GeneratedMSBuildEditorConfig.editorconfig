@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProductApp.Persistence
-build_property.ProjectDir = C:\Users\Safak\RiderProjects\ProductApp\src\Infrastructure\ProductApp.Persistence\
+build_property.ProjectDir = C:\Users\Safak\RiderProjects\OnionArchitecture\ProductApp\src\Infrastructure\ProductApp.Persistence\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

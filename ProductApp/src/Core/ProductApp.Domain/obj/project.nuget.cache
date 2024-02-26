@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fcYBpkLNTmQEezmWhADuVrvjaOYeurjAr/xTXjZMydDWRMRYXbEGlYaDreMme6B2MwYwQs83D0FFekAGOB/75w==",
+  "dgSpecHash": "ayYJK4WcHDaYi6Ib0LMQsy0oi9tMBtReZtjgOrFjpjvxVBR6eZ6Q7YyGMQbUhgsUoSmo1orJ/FnoxD7wY3cp2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Safak\\RiderProjects\\ProductApp\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Safak\\RiderProjects\\OnionArchitecture\\ProductApp\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
